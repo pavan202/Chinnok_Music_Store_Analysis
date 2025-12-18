@@ -1,1 +1,1 @@
-set-head <Chinnok SQL Project>
+Chinnok SQL Project
